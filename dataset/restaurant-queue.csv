@@ -1,0 +1,13 @@
+alt;bar;fri;hun;pat;price;rain;res;type;est;willwait
+t;f;f;t;some;$$$;f;t;french;0-10;t
+t;f;f;t;full;$;f;f;thai;30-60;f
+f;t;f;f;some;$;f;f;burger;0-10;t
+t;f;t;t;full;$;f;f;thai;10-30;t
+t;f;t;f;full;$$$;f;t;french;>60;f
+f;t;f;t;some;$$;t;t;italian;0-10;t
+f;t;f;f;none;$;t;f;burger;0-10;f
+f;f;f;t;some;$$;t;t;thai;0-10;t
+f;t;t;f;full;$;t;f;burger;>60;f
+t;t;t;t;full;$$$;f;t;italian;10-30;f
+f;f;f;f;none;$;f;f;thai;0-10;f
+t;t;t;t;full;$;f;f;burger;30-60;t
